@@ -3,12 +3,13 @@ body {
   color: #444;
   font-size: 16px;
   font-family: 'Gentium Book Basic', serif;
+  background-color: orange;
 }
 p {
   margin-bottom: .70em;
 }
 nav, footer {
-  background-color: #185;
+  background-color: blue;
 }
 footer {
   text-align: center;
