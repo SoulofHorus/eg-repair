@@ -57,7 +57,7 @@ header img {
   margin: 0 auto;
 }
 header h1 {
-  width: 600px;
+  width: 0 auto;
   font-family: 'Lato', sans-serif;
   font-weight: 900;
   text-align: center;
@@ -83,7 +83,7 @@ article figure {
   float: right;
 }
 article figcaption {
-  margin: 0 0 1.25em 1.25em;
+  float: left;
 }
 .pagination {
   margin-top: 2em;
