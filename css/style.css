@@ -5,6 +5,12 @@ body {
   font-family: 'Gentium Book Basic', serif;
   background-color: orange;
 }
+.dropcap {
+  font-family: 'Gentium Book Basic';
+  font-size: 4.5em;
+  padding-top: 3px;
+
+}
 p {
   margin-bottom: .70em;
 }
